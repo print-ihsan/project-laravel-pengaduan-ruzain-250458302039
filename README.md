@@ -8,11 +8,11 @@ Platform ini bertujuan mempermudah proses penyampaian aspirasi rakyat sekaligus 
 ---
 
 ##  Fitur Unggulan
--  Formulir Pengaduan - Rakyat dapat mengirimkan laporan secara mudah
--  Verifikasi Admin - Petugas berwenang dapat memverifikasi dan menindaklanjuti aduan  
--  Tracking Status - Rakyat dapat memantau perkembangan laporan mereka  
--  Sistem Login Multi-Level - Akses berbeda untuk Admin dan Rakyat  
--  Dashboard Analytics - Panel monitoring data laporan secara real-time
+-  **Formulir Pengaduan** - Rakyat dapat mengirimkan laporan secara mudah
+-  **Verifikasi Admin** - Petugas berwenang dapat memverifikasi dan menindaklanjuti aduan  
+-  **Tracking Status** - Rakyat dapat memantau perkembangan laporan mereka  
+-  **Sistem Login Multi-Level** - Akses berbeda untuk Admin dan Rakyat  
+-  **Dashboard Analytics** - Panel monitoring data laporan secara real-time
 
 ---
 
