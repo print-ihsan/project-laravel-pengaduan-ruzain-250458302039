@@ -1,29 +1,31 @@
-#  Aplikasi Pengaduan Masyarakat
+#  Website Pengaduan Rakyat
 
-Aplikasi **Pengaduan Masyarakat** adalah sistem berbasis web yang digunakan untuk menampung dan mengelola laporan dari masyarakat secara online.  
-Proyek ini bertujuan untuk mempermudah masyarakat dalam menyampaikan keluhan, serta membantu petugas dalam menindaklanjuti laporan dengan cepat, transparan, dan efisien.
+Website Layanan Pengaduan Rakyat merupakan platform digital berbasis web yang dirancang untuk menerima dan mengelola aduan dari rakyat secara online.
+Platform ini bertujuan mempermudah proses penyampaian aspirasi rakyat sekaligus membantu pihak berwenang dalam menangani laporan dengan lebih cepat, transparan, dan terstruktur.
 
----
 
-##  Fitur Utama
--  Pengguna dapat membuat laporan/pengaduan baru.  
--  Admin dapat memverifikasi dan menindaklanjuti laporan.  
--  Masyarakat dapat melihat status laporan mereka.  
--  Autentikasi multi-level (Admin dan Masyarakat).  
--  Dashboard untuk memantau data laporan.
 
 ---
 
-##  Teknologi yang Digunakan
+##  Fitur Unggulan
+-  Formulir Pengaduan - Rakyat dapat mengirimkan laporan secara mudah
+-  Verifikasi Admin - Petugas berwenang dapat memverifikasi dan menindaklanjuti aduan  
+-  Tracking Status - Rakyat dapat memantau perkembangan laporan mereka  
+-  Sistem Login Multi-Level - Akses berbeda untuk Admin dan Rakyat  
+-  Dashboard Analytics - Panel monitoring data laporan secara real-time
+
+---
+
+##  Tech Stack yang Digunakan
 - **Laravel 12** — Framework utama backend dan routing.  
-- **Livewire** — Untuk komponen interaktif tanpa JavaScript tambahan.  
-- **Tailwind CSS** — Styling cepat dan responsif.  
-- **MySQL** — Basis data utama.  
-- **Blade** — Template engine bawaan Laravel.  
+- **Livewire** - Membangun komponen UI interaktif tanpa JavaScript 
+- **Tailwind CSS** - Framework CSS untuk desain responsif
+- **MySQL** - Database management system
+- **Blade Templating** - Engine template Laravel  
 
 ---
 
-##  Cara Menjalankan Project
+##  Cara Running Project
 
 ### 1. Clone Repository
 ```bash
