@@ -29,5 +29,5 @@ Platform ini bertujuan mempermudah proses penyampaian aspirasi rakyat sekaligus 
 
 ### 1. Clone Repository
 ```bash
-git clone <url-repo-anda>
-cd <nama-folder>
+git clone https://github.com/print-ihsan/project-laravel-pengaduan-ruzain-250458302039.git
+cd project-laravel-pengaduan-ruzain-250458302039
